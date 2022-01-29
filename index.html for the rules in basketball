@@ -1,0 +1,46 @@
+<html>
+<link rel="stylesheet" href="style.css">
+<head>
+   <title>Basketball</title>
+   </head>
+ 
+   <body>
+   <h1>What are the rules of basketball?</h1>
+   <ul>
+    <li>Scoring: There are 3 different areas to score on the offensive end that all result in different points. The first is the 3 point line which is any shot from 22 feet away or farther in which results in 3 points. The second form of scoring is any shot or dunk within 22 feet which results in 2 points. The final form of scoring is from free throws which is worth 1 point. Free throws are 15 foot open shots that occur after a certain foul is called. 
+    <br /><br />
+    </li>
+    <li>Travelling: This is a violation which occurs when the offensive player in possession of the ball takes more than 2 steps without dribbling the basketball. 
+     <br /><br /> 
+      </li>
+      <li>Carry: This is a violation where the player in possession of the ball places his hand underneath the ball which results in the other team's possession
+       <br /><br />
+        </li>
+       <li>Double dribble: When the player with the ball dribbles with 2 hands or stops dribbling and dribbles once again.
+         <br /><br />
+      </li>
+      <li>8 second backcourt violation: The offensive team cannot keep the ball behind halfcourt for more than 8 seconds.
+        <br /><br />
+        </li>
+         <li>3 second violation: A player cannot be within the paint for more than 3 seconds whether or not they are on offence or defense.
+        <br /><br />
+        </li>
+         <li>Out of bounds. The player with the ball cannot touch or cross the out of bounds line and neither can the ball.
+        <br /><br />
+        </li>
+         <li>Shooting foul: When a defender makes unfair contact with the shooter mid shot. This violation results in the shooter getting rewarded with free throws.
+        <br /><br />
+        </li>
+         <li>Reach in foul: A defender cannot make unfair contact with a player's arms while dribbling or else it results in a play reset as well as a shot clock reset.
+        <br /><br />
+        </li>
+         <li>Shot clock: The shot clock is a 24 second time limit that the offence has to score.
+        <br /><br />
+        </li>
+    </ul>
+    <img src="https://d32ydbgkw6ghe6.cloudfront.net/production/uploads/cover_images/66bb1b0fb9f21c4f7d4a01fd2992a1d1a716/i1080x475.jpg" width=400/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XDgSg1njSOelNO7nb6mKrWeZKKR5hv5kZw&usqp=CAU" width=450/>
+    <img src="" width=200/>
+    <img src="" width=125/>
+ </body>
+  </html>
