@@ -1,0 +1,6 @@
+body {
+  background-color: lightblue;
+  color: Black;
+  padding: 30px;
+  font-family: sans-serif;
+}
