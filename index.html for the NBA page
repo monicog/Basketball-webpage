@@ -1,0 +1,51 @@
+<html>
+  <link rel="stylesheet" href="style.css">
+<head>
+   <title>Basketball</title>
+   </head>
+ 
+   <body>
+   <h1>The NBA (national basketball association)</h1>
+   
+   <ul>
+    <li>What is the NBA: The NBA is a multi billion dollar basketball association. This league consists of 30 teams with 15 players on each team and many staff members to accommodate these players. This is an extremely competitive league where only the best of the best participate. 
+    <br /><br />
+    </li>
+    <li>The NBA was officially created on November 1st, 1946 by Walter A. Brown.
+     <br /><br /> 
+      </li>
+      <li>The pay: The minimum wage for a rookie in the NBA is 925 thousand dollars. The average salary is roughly 7.5 million dollars a year.
+       <br /><br />
+        </li>
+       <li>Championships: Only one team wins the championship every year. In order to win the championship, that winning team needs to prove themselves during numerous rounds in the playoffs. The playoffs consist of the top 16 teams in the league. It then branches off into 8 separate 7 game-series where 8 of those 16 teams get cut from the next round. Then 4 series form where 4 teams get cut from the next round. This routine continues until there is 1 team left making them the champions.
+      </li>
+    </ul>
+    <h2>Michael Jordan</h2>
+    <ul>
+      <li>considered to be the best player to ever play
+        <br /><br />
+        </li>
+        <li>was drafted in 1984 and retired in 2003
+        <br /><br />
+        </li>
+        <li>In those years Michael managed to be an icon for the Chicago Bulls and carried them to 6 championships
+        <br /><br />
+        </li>
+        <li>Jordan's individual accolades and accomplishments include six NBA Finals Most Valuable Player (MVP) Awards, ten scoring titles (both all-time records), five MVP Awards, ten All-NBA First Team designations, nine All-Defensive First Team honors.
+      </ul>
+    <h3>Lebron James</h3>
+    <ul>
+      <li>considered to be the second best player of all time behind michael jordan, some argue that lebron is better
+        <br /><br />
+        </li>
+        <li>was drafted in 2003 and has yet to retire
+        <br /><br />
+        </li>
+        <li>has played for several teams such as the Cleveland Cavaliers, Miami Heat and the Los Angeles Lakers
+        <br /><br />
+        </li>
+        <li>Lebron is a 4 times NBA champion, 4 time finals MVP, 4 time NBA MVP, 17 time NBA all star, 13 time all NBA first team as well as being the 3rd leader in most points scored of all time.
+        </li>
+      </ul>
+ </body>
+  </html>
